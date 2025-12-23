@@ -1,9 +1,3 @@
-Perfect 👍 Sanskruti — below is a **BEST-IN-CLASS, ADVANCED & UNIQUE README.md** written at a **professional + recruiter + interviewer level**.
-This is **not generic** — it highlights **business thinking, analytics depth, Power BI expertise, and impact**.
-
-You can **directly paste this into GitHub** as `README.md`.
-
----
 
 # 🚗 Car Sales Intelligence Dashboard
 
